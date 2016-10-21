@@ -1,0 +1,19 @@
+{
+  "name": "cordova-legends",
+  "version": "1.0.0",
+  "description": "*\"PhoneGap Legends\"* is a proof of concept app demonstrating a fantasy/RPG gaming scenario. This is not intended to be a fully/complete app or game engine, just a showcase of what PhoneGap apps are capable of.   The app demonstrates a game scenario that leverages best practices for HTML DOM elements to achieve an optimal user experience.  You can read full detail about the techniques used to develop this sample app at: http://www.tricedesigns.com/?p=2928",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larryaubstore/PhoneGap-Legends.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larryaubstore/PhoneGap-Legends/issues"
+  },
+  "homepage": "https://github.com/larryaubstore/PhoneGap-Legends#readme"
+}
